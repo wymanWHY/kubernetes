@@ -1,3 +1,3 @@
-FROM gcr.io/google-containers/pause-amd64:v3.1
+FROM gcr.io/google-containers/pause-amd64@sha256:59eec8837a4d942cc19a52b8c09ea75121acc38114a2c68b98983ce9356b8610
 MAINTAINER wymanwang
 

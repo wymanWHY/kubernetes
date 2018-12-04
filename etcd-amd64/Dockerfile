@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/etcd-amd64:v3.1.17
+FROM gcr.io/google-containers/etcd-amd64@sha256:240bd81c2f54873804363665c5d1a9b8e06ec5c63cfc181e026ddec1d81585bb
 MAINTAINER wymanwang
